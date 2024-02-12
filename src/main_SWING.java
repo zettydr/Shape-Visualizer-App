@@ -13,7 +13,6 @@ import java.util.regex.Pattern;
 /**
  *
  * @author Diamond Zetty
- * CMSC 335
  * 02.06.2024
  * This class creates the main gui, drop down menu, text boxes, buttons, and displays the shapes and their calculations when ran.
  *
