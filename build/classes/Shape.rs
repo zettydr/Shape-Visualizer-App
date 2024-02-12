@@ -1,0 +1,12 @@
+Sphere
+Circle
+Cylinder
+Shape
+Cone
+Cube
+ThreeDimensionalShape
+Torus
+Rectangle
+Triangle
+TwoDimensionalShape
+Square
