@@ -4,7 +4,6 @@ import java.awt.Dimension;
 /**
  *
  * @author Diamond Zetty
- * CMSC 335
  * 02.06.2024
  * This class allows the program to draw a rectangle based on the given dimensions.
  *
